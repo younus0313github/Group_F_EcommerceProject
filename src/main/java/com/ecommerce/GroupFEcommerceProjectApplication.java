@@ -8,6 +8,7 @@ public class GroupFEcommerceProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GroupFEcommerceProjectApplication.class, args);
+		
 	}
 
 }

@@ -5,7 +5,11 @@ import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
-
+/*
+ * Task No 70 
+ * Design Restful API to add user address into database.
+ * By - Shaikh Younus Kalindar
+ */
 @Entity
 @Table(name = "userAddress")
 public class UserAddressSave {
